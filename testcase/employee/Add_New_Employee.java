@@ -1,9 +1,12 @@
 package employee;
 
 import org.openqa.selenium.WebDriver;
+import org.testng.annotations.AfterClass;
 import org.testng.annotations.BeforeClass;
 import org.testng.annotations.Parameters;
 import org.testng.annotations.Test;
+
+import com.google.common.base.Verify;
 
 import commons.BaseTest;
 import pageObjects.AddEmployeePage;
@@ -13,20 +16,20 @@ import pageObjects.EmployeeListPage;
 import pageObjects.PageGeneratorManager;
 import pageObjects.PersonalDetailPage;
 
-public class Add_New_Employee extends BaseTest{
+public class Add_New_Employee extends BaseTest {
 	WebDriver driver;
 	LoginPage adminLoginPage;
 	DashboardPage dashboardPage;
 	EmployeeListPage employeeListPage;
 	AddEmployeePage addEmployeePage;
-	PersonalDetailPage persionalDetailPage;
+	PersonalDetailPage personalDetailPage;
 	
-	@Parameters({"browserName","url"})
+	@Parameters({"browser","url"})
 	@BeforeClass
 	public void beforeClass(String browser, String url) {
 		log.info("Pre-condition-Step 01: Open browser "+browser+ "with url"+url);
 		driver=getBroswerDriver(browser, url);
-		adminLoginPage=PageGeneratorManager.getAdminLoginPageO(driver);
+		adminLoginPage=PageGeneratorManager.getLoginPageO(driver);
 		log.info("Pre-condition-Step 02: Login page with admin role");	
 		dashboardPage=adminLoginPage.loginWithAdminAcc("Admin","admin123", "txtUsername","txtPassword","btnLogin");
 	}
@@ -34,16 +37,18 @@ public class Add_New_Employee extends BaseTest{
 	@Test
 	public void Employee_01_Add_New_Employee() {
 		log.info("Add_New_Emp Step 01: Open employee list");
-		employeeListPage = dashboardPage.openEmployeeList();
+		 dashboardPage.openSubMenu(driver,"PIM","viewEmployeeList");
+		 employeeListPage=PageGeneratorManager.getEmployeeListPage(driver);
 		
 		log.info("Add_New_Emp Step 02: Click to add button");
-		addEmployeePage=employeeListPage.clickIntoAddButton();
+		employeeListPage.clickIntoButtonByID(driver,"btnAdd");
+		addEmployeePage=PageGeneratorManager.getAddEmployeePage(driver);
 		
 		log.info("Add_New_Emp Step 03: Input fullname");
-		addEmployeePage.inputFirstName("Le");
+		addEmployeePage.inputTextboxtName(driver,"Le","firstName");
 		
 		log.info("Add_New_Emp Step 04: Input lastname");
-		addEmployeePage.inputLastName("An");
+		addEmployeePage.inputTextboxtName(driver,"An3","lastName");
 		
 		log.info("Add_New_Emp Step 05: Get employee ID");
 		addEmployeePage.getEmployeeID();
@@ -52,33 +57,36 @@ public class Add_New_Employee extends BaseTest{
 		addEmployeePage.clickIntoCreateLoginDetails();
 		
 		log.info("Add_New_Emp Step 07: Input data into Username");
-		addEmployeePage.inputUserName("LeAn");
+		addEmployeePage.inputTextboxtName(driver, "LeAn3","user_name");
 		
 		log.info("Add_New_Emp Step 08: Input data into Password");
-		addEmployeePage.inputPassword("lean1234");
+		addEmployeePage.inputTextboxtName(driver,"lean1234","user_password");
 		
 		log.info("Add_New_Emp Step 09: Input data into Confirm Password");
-		addEmployeePage.inputConfirmPassword("lean1234");
-		
+		addEmployeePage.inputTextboxtName(driver,"lean1234","re_password");
+	
 		log.info("Add_New_Emp Step 10: Select Disabe at Status");
-		addEmployeePage.selectDisable("Disable");
+		addEmployeePage.selectDisable("Disabled");
 		
 		log.info("Add_New_Emp Step 11: Click into save button and Come to persional Detail Page");
-		persionalDetailPage=addEmployeePage.clickToSaveButton();
+		addEmployeePage.clickIntoButtonByID("btnSave");
+		personalDetailPage=PageGeneratorManager.getPersonalDetailPage(driver);
 		
-		log.info("Add_New_Emp Step 12: Come to employee list page");
-		employeeListPage= persionalDetailPage.openEmployeeList();
+		log.info("Add_New_Emp Step 12: Navigate to persional Detail Page");
+		verifyTrue(personalDetailPage.openPersonalDetailPage());
 		
-		log.info("Add_New_Emp Step 13: Input data into Employee name");
-		employeeListPage.inputEmployeeName("Le An");
+		log.info("Add_New_Emp Step 13: Come to employee list page");
+		personalDetailPage.openSubMenu(driver,"PIM","viewEmployeeList");
+		employeeListPage=PageGeneratorManager.getEmployeeListPage(driver);
 		
-		log.info("Add_New_Emp Step 14: Click into Search button");
-		employeeListPage.clickToSearchButton();
+		log.info("Add_New_Emp Step 14: Input data into Employee name");
+		employeeListPage.inputEmployeeName("Admin A");
 		
-		log.info("Add_New_Emp Step 15: Verify Employee infor display correctly at result table");
-		verifyTrue(employeeListPage.isDisplayEmployeeInforCorrectly("","",""));
-		
-		
+		log.info("Add_New_Emp Step 15: Click into Search button");
+		employeeListPage.clickIntoButtonByID(driver,"searchBtn");
+				
+		log.info("Add_New_Emp Step 16: Verify Employee infor display correctly at result table");
+		verifyEquals(employeeListPage.getEmployeeInfor("resultTable","Last Name","1"),"Admin");
 	}
 	
 	@Test
@@ -130,5 +138,8 @@ public class Add_New_Employee extends BaseTest{
 	public void Employee_11_Search_Employee() {
 		
 	}
-
+	@AfterClass(alwaysRun=true)
+	public void afterClass() {
+		cleanBrowserAndDriver();
+	}
 }

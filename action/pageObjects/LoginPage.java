@@ -21,7 +21,7 @@ public class LoginPage extends BasePage{
 		
 		waitForAllElementVisible(driver, LoginPageUI.LOGIN_TEXTBOX_NAME, btnLogin);
 		clickToElement(driver, LoginPageUI.LOGIN_TEXTBOX_NAME, btnLogin);
-		return PageGeneratorManager.getDashboardPageO(driver);
+		return PageGeneratorManager.getDashboardPage(driver);
 	}
 	
 }

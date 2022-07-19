@@ -10,7 +10,7 @@
 	<classpathentry kind="src" path="interface"/>
 	<classpathentry kind="src" path="resources"/>
 	<classpathentry kind="lib" path="Libraries/testng-6.14.3.jar"/>
-	<classpathentry kind="lib" path="Libraries/selenium-server-standalone-3.141.59.jar"/>
+	<classpathentry kind="lib" path="Libraries/selenium-server-standalone-3.141.59.jar" sourcepath="Libraries/client-combined-3.141.59-sources.jar"/>
 	<classpathentry kind="lib" path="libLogging/log4j-1.2.16.jar"/>
 	<classpathentry kind="lib" path="libLogging/commons-codec-1.11.jar"/>
 	<classpathentry kind="lib" path="libLogging/commons-io-2.6.jar"/>

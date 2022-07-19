@@ -1,0 +1,569 @@
+[INFO ] [2022-06-06 08:31:40,648] ---------- START delete file in folder ----------
+[INFO ] [2022-06-06 08:31:40,649] ---------- END delete file in folder ----------
+[INFO ] [2022-06-06 09:13:20,238] ---------- START delete file in folder ----------
+[INFO ] [2022-06-06 09:13:20,239] ---------- END delete file in folder ----------
+[INFO ] [2022-06-06 10:55:38,276] ---------- START delete file in folder ----------
+[INFO ] [2022-06-06 10:55:38,277] ---------- END delete file in folder ----------
+[INFO ] [2022-06-06 10:55:38,283] Pre-condition-Step 01: Open browser chromewith urlhttps://opensource-demo.orangehrmlive.com/
+[INFO ] [2022-06-06 10:56:06,937] Pre-condition-Step 02: Login page with admin role
+[INFO ] [2022-06-06 10:56:10,880] Add_New_Emp Step 01: Open employee list
+[INFO ] [2022-06-06 10:56:10,881] Add_New_Emp Step 02: Click to add button
+[INFO ] [2022-06-06 11:03:00,115] ---------- START delete file in folder ----------
+[INFO ] [2022-06-06 11:03:00,116] ---------- END delete file in folder ----------
+[INFO ] [2022-06-06 11:03:00,125] Pre-condition-Step 01: Open browser chromewith urlhttps://opensource-demo.orangehrmlive.com/
+[INFO ] [2022-06-06 11:03:09,860] Pre-condition-Step 02: Login page with admin role
+[INFO ] [2022-06-06 11:03:13,914] Add_New_Emp Step 01: Open employee list
+[INFO ] [2022-06-06 11:03:13,914] Add_New_Emp Step 02: Click to add button
+[INFO ] [2022-06-06 11:06:00,308] ---------- START delete file in folder ----------
+[INFO ] [2022-06-06 11:06:00,309] ---------- END delete file in folder ----------
+[INFO ] [2022-06-06 11:06:00,316] Pre-condition-Step 01: Open browser chromewith urlhttps://opensource-demo.orangehrmlive.com/
+[INFO ] [2022-06-06 11:06:09,821] Pre-condition-Step 02: Login page with admin role
+[INFO ] [2022-06-06 11:06:13,805] Add_New_Emp Step 01: Open employee list
+[INFO ] [2022-06-06 11:06:13,805] Add_New_Emp Step 02: Click to add button
+[INFO ] [2022-06-06 11:06:13,840] ------------Close browser and driver-----------
+[INFO ] [2022-06-06 11:06:13,841] OS name = mac os x
+[INFO ] [2022-06-06 11:06:13,841] Driver instance name = chromedriver: chrome on mac (e8957f73ace85ef23bb80dbba76a25a0)
+[INFO ] [2022-06-14 19:42:13,419] ---------- START delete file in folder ----------
+[INFO ] [2022-06-14 19:42:13,420] ---------- END delete file in folder ----------
+[INFO ] [2022-06-14 19:42:13,431] Pre-condition-Step 01: Open browser chromewith urlhttps://opensource-demo.orangehrmlive.com/
+[INFO ] [2022-06-14 19:42:43,009] Pre-condition-Step 02: Login page with admin role
+[INFO ] [2022-06-14 19:42:47,050] Add_New_Emp Step 01: Open employee list
+[INFO ] [2022-06-14 19:42:47,050] Add_New_Emp Step 02: Click to add button
+[INFO ] [2022-06-14 19:42:47,092] ------------Close browser and driver-----------
+[INFO ] [2022-06-14 19:42:47,092] OS name = mac os x
+[INFO ] [2022-06-14 19:42:47,092] Driver instance name = chromedriver: chrome on mac (8e467a5d5391db954d90c8c30f3cd979)
+[INFO ] [2022-06-15 21:07:13,972] ---------- START delete file in folder ----------
+[INFO ] [2022-06-15 21:07:13,973] ---------- END delete file in folder ----------
+[INFO ] [2022-06-15 21:07:13,982] Pre-condition-Step 01: Open browser chromewith urlhttps://opensource-demo.orangehrmlive.com/
+[INFO ] [2022-06-15 21:07:26,041] Pre-condition-Step 02: Login page with admin role
+[INFO ] [2022-06-15 21:07:30,078] Add_New_Emp Step 01: Open employee list
+[INFO ] [2022-06-15 21:07:35,605] Add_New_Emp Step 02: Click to add button
+[INFO ] [2022-06-15 21:07:36,631] Add_New_Emp Step 03: Input fullname
+[INFO ] [2022-06-15 21:07:36,674] ------------Close browser and driver-----------
+[INFO ] [2022-06-15 21:07:36,674] OS name = mac os x
+[INFO ] [2022-06-15 21:07:36,674] Driver instance name = chromedriver: chrome on mac (8ee6835dee92fb7ddedddb003afcca00)
+[INFO ] [2022-06-15 21:08:57,516] ---------- START delete file in folder ----------
+[INFO ] [2022-06-15 21:08:57,518] ---------- END delete file in folder ----------
+[INFO ] [2022-06-15 21:08:57,527] Pre-condition-Step 01: Open browser chromewith urlhttps://opensource-demo.orangehrmlive.com/
+[INFO ] [2022-06-15 21:09:07,179] Pre-condition-Step 02: Login page with admin role
+[INFO ] [2022-06-15 21:09:11,239] Add_New_Emp Step 01: Open employee list
+[INFO ] [2022-06-15 21:09:16,702] Add_New_Emp Step 02: Click to add button
+[INFO ] [2022-06-15 21:09:17,730] Add_New_Emp Step 03: Input fullname
+[INFO ] [2022-06-15 21:09:17,934] Add_New_Emp Step 04: Input lastname
+[INFO ] [2022-06-15 21:09:18,057] Add_New_Emp Step 05: Get employee ID
+[INFO ] [2022-06-15 21:09:18,057] Add_New_Emp Step 06: Click into 'Create Login Details'
+[INFO ] [2022-06-15 21:09:18,302] Add_New_Emp Step 07: Input data into Username
+[INFO ] [2022-06-15 21:09:18,451] Add_New_Emp Step 08: Input data into Password
+[INFO ] [2022-06-15 21:09:18,606] Add_New_Emp Step 09: Input data into Confirm Password
+[INFO ] [2022-06-15 21:09:18,710] Add_New_Emp Step 10: Select Disabe at Status
+[INFO ] [2022-06-15 21:09:18,872] ------------Close browser and driver-----------
+[INFO ] [2022-06-15 21:09:18,872] OS name = mac os x
+[INFO ] [2022-06-15 21:09:18,872] Driver instance name = chromedriver: chrome on mac (079f9fae7f4256684521c85fd9fe4d4f)
+[INFO ] [2022-06-16 15:18:17,762] ---------- START delete file in folder ----------
+[INFO ] [2022-06-16 15:18:17,764] ---------- END delete file in folder ----------
+[INFO ] [2022-06-16 15:18:17,771] Pre-condition-Step 01: Open browser chromewith urlhttps://opensource-demo.orangehrmlive.com/
+[INFO ] [2022-06-16 15:18:29,127] Pre-condition-Step 02: Login page with admin role
+[INFO ] [2022-06-16 15:18:33,480] Add_New_Emp Step 01: Open employee list
+[INFO ] [2022-06-16 15:18:38,206] Add_New_Emp Step 02: Click to add button
+[INFO ] [2022-06-16 15:18:39,087] Add_New_Emp Step 03: Input fullname
+[INFO ] [2022-06-16 15:18:39,368] Add_New_Emp Step 04: Input lastname
+[INFO ] [2022-06-16 15:18:39,484] Add_New_Emp Step 05: Get employee ID
+[INFO ] [2022-06-16 15:18:39,484] Add_New_Emp Step 06: Click into 'Create Login Details'
+[INFO ] [2022-06-16 15:18:39,734] Add_New_Emp Step 07: Input data into Username
+[INFO ] [2022-06-16 15:18:39,855] Add_New_Emp Step 08: Input data into Password
+[INFO ] [2022-06-16 15:18:39,985] Add_New_Emp Step 09: Input data into Confirm Password
+[INFO ] [2022-06-16 15:18:40,092] Add_New_Emp Step 10: Select Disabe at Status
+[INFO ] [2022-06-16 15:18:40,273] ------------Close browser and driver-----------
+[INFO ] [2022-06-16 15:18:40,291] OS name = mac os x
+[INFO ] [2022-06-16 15:18:40,291] Driver instance name = chromedriver: chrome on mac (9d51c2fe6c8da60d3f1549bfd04f9712)
+[INFO ] [2022-06-16 15:20:37,446] ---------- START delete file in folder ----------
+[INFO ] [2022-06-16 15:20:37,448] ---------- END delete file in folder ----------
+[INFO ] [2022-06-16 15:20:37,455] Pre-condition-Step 01: Open browser chromewith urlhttps://opensource-demo.orangehrmlive.com/
+[INFO ] [2022-06-16 15:20:47,679] Pre-condition-Step 02: Login page with admin role
+[INFO ] [2022-06-16 15:20:51,996] Add_New_Emp Step 01: Open employee list
+[INFO ] [2022-06-16 15:20:56,348] Add_New_Emp Step 02: Click to add button
+[INFO ] [2022-06-16 15:20:58,172] Add_New_Emp Step 03: Input fullname
+[INFO ] [2022-06-16 15:20:58,331] Add_New_Emp Step 04: Input lastname
+[INFO ] [2022-06-16 15:20:58,448] Add_New_Emp Step 05: Get employee ID
+[INFO ] [2022-06-16 15:20:58,449] Add_New_Emp Step 06: Click into 'Create Login Details'
+[INFO ] [2022-06-16 15:20:58,691] Add_New_Emp Step 07: Input data into Username
+[INFO ] [2022-06-16 15:20:58,821] Add_New_Emp Step 08: Input data into Password
+[INFO ] [2022-06-16 15:20:58,952] Add_New_Emp Step 09: Input data into Confirm Password
+[INFO ] [2022-06-16 15:20:59,142] Add_New_Emp Step 10: Select Disabe at Status
+[INFO ] [2022-06-16 15:34:36,310] ---------- START delete file in folder ----------
+[INFO ] [2022-06-16 15:34:36,312] ---------- END delete file in folder ----------
+[INFO ] [2022-06-16 15:34:36,320] Pre-condition-Step 01: Open browser chromewith urlhttps://opensource-demo.orangehrmlive.com/
+[INFO ] [2022-06-16 15:34:47,073] Pre-condition-Step 02: Login page with admin role
+[INFO ] [2022-06-16 15:34:51,378] Add_New_Emp Step 01: Open employee list
+[INFO ] [2022-06-16 15:34:56,190] Add_New_Emp Step 02: Click to add button
+[INFO ] [2022-06-16 15:34:57,301] Add_New_Emp Step 03: Input fullname
+[INFO ] [2022-06-16 15:34:57,451] Add_New_Emp Step 04: Input lastname
+[INFO ] [2022-06-16 15:34:57,567] Add_New_Emp Step 05: Get employee ID
+[INFO ] [2022-06-16 15:34:57,567] Add_New_Emp Step 06: Click into 'Create Login Details'
+[INFO ] [2022-06-16 15:34:57,813] Add_New_Emp Step 07: Input data into Username
+[INFO ] [2022-06-16 15:34:57,930] Add_New_Emp Step 08: Input data into Password
+[INFO ] [2022-06-16 15:34:58,108] Add_New_Emp Step 09: Input data into Confirm Password
+[INFO ] [2022-06-16 15:34:58,307] Add_New_Emp Step 10: Select Disabe at Status
+[INFO ] [2022-06-16 15:50:56,358] ---------- START delete file in folder ----------
+[INFO ] [2022-06-16 15:50:56,359] ---------- END delete file in folder ----------
+[INFO ] [2022-06-16 15:50:56,367] Pre-condition-Step 01: Open browser chromewith urlhttps://opensource-demo.orangehrmlive.com/
+[INFO ] [2022-06-16 15:51:07,457] Pre-condition-Step 02: Login page with admin role
+[INFO ] [2022-06-16 15:51:11,774] Add_New_Emp Step 01: Open employee list
+[INFO ] [2022-06-16 15:51:16,817] Add_New_Emp Step 02: Click to add button
+[INFO ] [2022-06-16 15:51:17,689] Add_New_Emp Step 03: Input fullname
+[INFO ] [2022-06-16 15:51:17,918] Add_New_Emp Step 04: Input lastname
+[INFO ] [2022-06-16 15:51:18,032] Add_New_Emp Step 05: Get employee ID
+[INFO ] [2022-06-16 15:51:18,033] Add_New_Emp Step 06: Click into 'Create Login Details'
+[INFO ] [2022-06-16 15:51:18,277] Add_New_Emp Step 07: Input data into Username
+[INFO ] [2022-06-16 15:51:18,406] Add_New_Emp Step 08: Input data into Password
+[INFO ] [2022-06-16 15:51:18,540] Add_New_Emp Step 09: Input data into Confirm Password
+[INFO ] [2022-06-16 15:51:18,649] Add_New_Emp Step 10: Select Disabe at Status
+[INFO ] [2022-06-16 15:51:18,770] Add_New_Emp Step 11: Click into save button and Come to persional Detail Page
+[INFO ] [2022-06-16 15:51:18,874] Add_New_Emp Step 12: Come to employee list page
+[INFO ] [2022-06-16 15:51:22,905] Add_New_Emp Step 13: Input data into Employee name
+[INFO ] [2022-06-16 16:36:15,078] ---------- START delete file in folder ----------
+[INFO ] [2022-06-16 16:36:15,079] ---------- END delete file in folder ----------
+[INFO ] [2022-06-16 16:36:15,088] Pre-condition-Step 01: Open browser chromewith urlhttps://opensource-demo.orangehrmlive.com/
+[INFO ] [2022-06-16 16:36:25,162] Pre-condition-Step 02: Login page with admin role
+[INFO ] [2022-06-16 16:36:29,377] Add_New_Emp Step 01: Open employee list
+[INFO ] [2022-06-16 16:36:34,846] Add_New_Emp Step 02: Click to add button
+[INFO ] [2022-06-16 16:36:35,870] Add_New_Emp Step 03: Input fullname
+[INFO ] [2022-06-16 16:36:36,047] Add_New_Emp Step 04: Input lastname
+[INFO ] [2022-06-16 16:36:36,165] Add_New_Emp Step 05: Get employee ID
+[INFO ] [2022-06-16 16:36:36,165] Add_New_Emp Step 06: Click into 'Create Login Details'
+[INFO ] [2022-06-16 16:36:36,413] Add_New_Emp Step 07: Input data into Username
+[INFO ] [2022-06-16 16:36:36,531] Add_New_Emp Step 08: Input data into Password
+[INFO ] [2022-06-16 16:36:36,656] Add_New_Emp Step 09: Input data into Confirm Password
+[INFO ] [2022-06-16 16:36:36,758] Add_New_Emp Step 10: Select Disabe at Status
+[INFO ] [2022-06-16 16:36:36,913] Add_New_Emp Step 11: Click into save button and Come to persional Detail Page
+[INFO ] [2022-06-16 16:36:37,046] Add_New_Emp Step 12: Navigate to persional Detail Page
+[INFO ] [2022-06-16 16:50:52,101] ---------- START delete file in folder ----------
+[INFO ] [2022-06-16 16:50:52,103] ---------- END delete file in folder ----------
+[INFO ] [2022-06-16 16:50:52,116] Pre-condition-Step 01: Open browser chromewith urlhttps://opensource-demo.orangehrmlive.com/
+[INFO ] [2022-06-16 16:51:02,204] Pre-condition-Step 02: Login page with admin role
+[INFO ] [2022-06-16 16:51:06,460] Add_New_Emp Step 01: Open employee list
+[INFO ] [2022-06-16 16:51:11,863] Add_New_Emp Step 02: Click to add button
+[INFO ] [2022-06-16 16:51:12,778] Add_New_Emp Step 03: Input fullname
+[INFO ] [2022-06-16 16:51:12,991] Add_New_Emp Step 04: Input lastname
+[INFO ] [2022-06-16 16:51:13,106] Add_New_Emp Step 05: Get employee ID
+[INFO ] [2022-06-16 16:51:13,107] Add_New_Emp Step 06: Click into 'Create Login Details'
+[INFO ] [2022-06-16 16:51:13,360] Add_New_Emp Step 07: Input data into Username
+[INFO ] [2022-06-16 16:51:13,466] Add_New_Emp Step 08: Input data into Password
+[INFO ] [2022-06-16 16:51:13,632] Add_New_Emp Step 09: Input data into Confirm Password
+[INFO ] [2022-06-16 16:51:13,742] Add_New_Emp Step 10: Select Disabe at Status
+[INFO ] [2022-06-16 16:51:13,864] Add_New_Emp Step 11: Click into save button and Come to persional Detail Page
+[INFO ] [2022-06-16 16:51:13,944] Add_New_Emp Step 12: Navigate to persional Detail Page
+[INFO ] [2022-06-16 16:52:23,150] ---------- START delete file in folder ----------
+[INFO ] [2022-06-16 16:52:23,151] ---------- END delete file in folder ----------
+[INFO ] [2022-06-16 16:52:23,159] Pre-condition-Step 01: Open browser chromewith urlhttps://opensource-demo.orangehrmlive.com/
+[INFO ] [2022-06-16 16:52:33,221] Pre-condition-Step 02: Login page with admin role
+[INFO ] [2022-06-16 16:52:37,416] Add_New_Emp Step 01: Open employee list
+[INFO ] [2022-06-16 16:52:42,730] Add_New_Emp Step 02: Click to add button
+[INFO ] [2022-06-16 16:52:43,600] Add_New_Emp Step 03: Input fullname
+[INFO ] [2022-06-16 16:52:43,841] Add_New_Emp Step 04: Input lastname
+[INFO ] [2022-06-16 16:52:43,946] Add_New_Emp Step 05: Get employee ID
+[INFO ] [2022-06-16 16:52:43,947] Add_New_Emp Step 06: Click into 'Create Login Details'
+[INFO ] [2022-06-16 16:52:44,173] Add_New_Emp Step 07: Input data into Username
+[INFO ] [2022-06-16 16:52:44,268] Add_New_Emp Step 08: Input data into Password
+[INFO ] [2022-06-16 16:52:44,390] Add_New_Emp Step 09: Input data into Confirm Password
+[INFO ] [2022-06-16 16:52:44,491] Add_New_Emp Step 10: Select Disabe at Status
+[INFO ] [2022-06-16 16:52:44,611] Add_New_Emp Step 11: Click into save button and Come to persional Detail Page
+[INFO ] [2022-06-16 16:52:44,681] Add_New_Emp Step 12: Navigate to persional Detail Page
+[INFO ] [2022-06-16 16:52:48,432]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-06-16 16:52:48,435] Add_New_Emp Step 13: Come to employee list page
+[INFO ] [2022-06-16 16:52:49,473] Add_New_Emp Step 14: Input data into Employee name
+[INFO ] [2022-06-16 16:52:49,573] Add_New_Emp Step 15: Click into Search button
+[INFO ] [2022-06-16 16:52:50,910] Add_New_Emp Step 16: Verify Employee infor display correctly at result table
+[INFO ] [2022-06-16 16:52:50,966]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-06-16 17:00:22,142] ---------- START delete file in folder ----------
+[INFO ] [2022-06-16 17:00:22,144] ---------- END delete file in folder ----------
+[INFO ] [2022-06-16 17:00:22,155] Pre-condition-Step 01: Open browser chromewith urlhttps://opensource-demo.orangehrmlive.com/
+[INFO ] [2022-06-16 17:00:32,060] Pre-condition-Step 02: Login page with admin role
+[INFO ] [2022-06-16 17:00:36,291] Add_New_Emp Step 01: Open employee list
+[INFO ] [2022-06-16 17:00:41,229] Add_New_Emp Step 02: Click to add button
+[INFO ] [2022-06-16 17:00:42,311] Add_New_Emp Step 03: Input fullname
+[INFO ] [2022-06-16 17:00:42,483] Add_New_Emp Step 04: Input lastname
+[INFO ] [2022-06-16 17:00:42,604] Add_New_Emp Step 05: Get employee ID
+[INFO ] [2022-06-16 17:00:42,604] Add_New_Emp Step 06: Click into 'Create Login Details'
+[INFO ] [2022-06-16 17:00:42,841] Add_New_Emp Step 07: Input data into Username
+[INFO ] [2022-06-16 17:00:42,981] Add_New_Emp Step 08: Input data into Password
+[INFO ] [2022-06-16 17:00:43,109] Add_New_Emp Step 09: Input data into Confirm Password
+[INFO ] [2022-06-16 17:00:43,371] Add_New_Emp Step 10: Select Disabe at Status
+[INFO ] [2022-06-16 17:00:43,495] Add_New_Emp Step 11: Click into save button and Come to persional Detail Page
+[INFO ] [2022-06-16 17:00:43,574] Add_New_Emp Step 12: Navigate to persional Detail Page
+[INFO ] [2022-06-16 17:00:47,108]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-06-16 17:00:47,111] Add_New_Emp Step 13: Come to employee list page
+[INFO ] [2022-06-16 17:00:48,102] Add_New_Emp Step 14: Input data into Employee name
+[INFO ] [2022-06-16 17:00:48,235] Add_New_Emp Step 15: Click into Search button
+[INFO ] [2022-06-16 17:00:49,591] Add_New_Emp Step 16: Verify Employee infor display correctly at result table
+[INFO ] [2022-06-16 20:12:08,396] ---------- START delete file in folder ----------
+[INFO ] [2022-06-16 20:12:08,398] ---------- END delete file in folder ----------
+[INFO ] [2022-06-16 20:12:08,405] Pre-condition-Step 01: Open browser chromewith urlhttps://opensource-demo.orangehrmlive.com/
+[INFO ] [2022-06-16 20:12:19,541] Pre-condition-Step 02: Login page with admin role
+[INFO ] [2022-06-16 20:12:24,009] Add_New_Emp Step 01: Open employee list
+[INFO ] [2022-06-16 20:12:29,273] Add_New_Emp Step 02: Click to add button
+[INFO ] [2022-06-16 20:12:30,256] Add_New_Emp Step 03: Input fullname
+[INFO ] [2022-06-16 20:12:30,442] Add_New_Emp Step 04: Input lastname
+[INFO ] [2022-06-16 20:12:30,560] Add_New_Emp Step 05: Get employee ID
+[INFO ] [2022-06-16 20:12:30,561] Add_New_Emp Step 06: Click into 'Create Login Details'
+[INFO ] [2022-06-16 20:12:30,825] Add_New_Emp Step 07: Input data into Username
+[INFO ] [2022-06-16 20:12:30,951] Add_New_Emp Step 08: Input data into Password
+[INFO ] [2022-06-16 20:12:31,085] Add_New_Emp Step 09: Input data into Confirm Password
+[INFO ] [2022-06-16 20:12:31,186] Add_New_Emp Step 10: Select Disabe at Status
+[INFO ] [2022-06-16 20:12:31,340] Add_New_Emp Step 11: Click into save button and Come to persional Detail Page
+[INFO ] [2022-06-16 20:12:31,502] Add_New_Emp Step 12: Navigate to persional Detail Page
+[INFO ] [2022-06-16 20:12:35,105]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-06-16 20:12:35,107] Add_New_Emp Step 13: Come to employee list page
+[INFO ] [2022-06-16 20:12:36,384] Add_New_Emp Step 14: Input data into Employee name
+[INFO ] [2022-06-16 20:12:36,526] Add_New_Emp Step 15: Click into Search button
+[INFO ] [2022-06-16 20:12:47,821] Add_New_Emp Step 16: Verify Employee infor display correctly at result table
+[INFO ] [2022-06-16 20:12:47,909]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-06-16 20:15:10,727] ---------- START delete file in folder ----------
+[INFO ] [2022-06-16 20:15:10,728] ---------- END delete file in folder ----------
+[INFO ] [2022-06-16 20:15:10,734] Pre-condition-Step 01: Open browser chromewith urlhttps://opensource-demo.orangehrmlive.com/
+[INFO ] [2022-06-16 20:15:20,438] Pre-condition-Step 02: Login page with admin role
+[INFO ] [2022-06-16 20:15:24,853] Add_New_Emp Step 01: Open employee list
+[INFO ] [2022-06-16 20:15:29,590] Add_New_Emp Step 02: Click to add button
+[INFO ] [2022-06-16 20:15:31,304] Add_New_Emp Step 03: Input fullname
+[INFO ] [2022-06-16 20:15:31,458] Add_New_Emp Step 04: Input lastname
+[INFO ] [2022-06-16 20:15:31,574] Add_New_Emp Step 05: Get employee ID
+[INFO ] [2022-06-16 20:15:31,574] Add_New_Emp Step 06: Click into 'Create Login Details'
+[INFO ] [2022-06-16 20:15:31,828] Add_New_Emp Step 07: Input data into Username
+[INFO ] [2022-06-16 20:15:31,931] Add_New_Emp Step 08: Input data into Password
+[INFO ] [2022-06-16 20:15:32,059] Add_New_Emp Step 09: Input data into Confirm Password
+[INFO ] [2022-06-16 20:15:32,191] Add_New_Emp Step 10: Select Disabe at Status
+[INFO ] [2022-06-16 20:15:32,378] Add_New_Emp Step 11: Click into save button and Come to persional Detail Page
+[INFO ] [2022-06-16 20:15:32,462] Add_New_Emp Step 12: Navigate to persional Detail Page
+[INFO ] [2022-06-16 20:15:36,049]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-06-16 20:15:36,050] Add_New_Emp Step 13: Come to employee list page
+[INFO ] [2022-06-16 20:15:37,033] Add_New_Emp Step 14: Input data into Employee name
+[INFO ] [2022-06-16 20:15:57,295] Add_New_Emp Step 15: Click into Search button
+[INFO ] [2022-06-16 20:16:08,786] Add_New_Emp Step 16: Verify Employee infor display correctly at result table
+[INFO ] [2022-06-16 20:16:08,865]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-06-16 20:32:00,323] ---------- START delete file in folder ----------
+[INFO ] [2022-06-16 20:32:00,325] ---------- END delete file in folder ----------
+[INFO ] [2022-06-16 20:32:00,333] Pre-condition-Step 01: Open browser chromewith urlhttps://opensource-demo.orangehrmlive.com/
+[INFO ] [2022-06-16 20:32:10,019] Pre-condition-Step 02: Login page with admin role
+[INFO ] [2022-06-16 20:32:14,406] Add_New_Emp Step 01: Open employee list
+[INFO ] [2022-06-16 20:32:19,925] Add_New_Emp Step 02: Click to add button
+[INFO ] [2022-06-16 20:32:20,848] Add_New_Emp Step 03: Input fullname
+[INFO ] [2022-06-16 20:32:21,006] Add_New_Emp Step 04: Input lastname
+[INFO ] [2022-06-16 20:32:21,125] Add_New_Emp Step 05: Get employee ID
+[INFO ] [2022-06-16 20:32:21,125] Add_New_Emp Step 06: Click into 'Create Login Details'
+[INFO ] [2022-06-16 20:32:21,365] Add_New_Emp Step 07: Input data into Username
+[INFO ] [2022-06-16 20:32:21,493] Add_New_Emp Step 08: Input data into Password
+[INFO ] [2022-06-16 20:32:21,627] Add_New_Emp Step 09: Input data into Confirm Password
+[INFO ] [2022-06-16 20:32:21,808] Add_New_Emp Step 10: Select Disabe at Status
+[INFO ] [2022-06-16 20:32:21,940] Add_New_Emp Step 11: Click into save button and Come to persional Detail Page
+[INFO ] [2022-06-16 20:32:22,020] Add_New_Emp Step 12: Navigate to persional Detail Page
+[INFO ] [2022-06-16 20:32:25,649]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-06-16 20:32:25,656] Add_New_Emp Step 13: Come to employee list page
+[INFO ] [2022-06-16 20:32:26,679] Add_New_Emp Step 14: Input data into Employee name
+[INFO ] [2022-06-16 20:32:46,775] Add_New_Emp Step 15: Click into Search button
+[INFO ] [2022-06-16 20:39:13,034] ---------- START delete file in folder ----------
+[INFO ] [2022-06-16 20:39:13,036] ---------- END delete file in folder ----------
+[INFO ] [2022-06-16 20:39:13,049] Pre-condition-Step 01: Open browser chromewith urlhttps://opensource-demo.orangehrmlive.com/
+[INFO ] [2022-06-16 20:39:23,399] Pre-condition-Step 02: Login page with admin role
+[INFO ] [2022-06-16 20:39:27,695] Add_New_Emp Step 01: Open employee list
+[INFO ] [2022-06-16 20:39:32,961] Add_New_Emp Step 02: Click to add button
+[INFO ] [2022-06-16 20:39:33,920] Add_New_Emp Step 03: Input fullname
+[INFO ] [2022-06-16 20:39:34,142] Add_New_Emp Step 04: Input lastname
+[INFO ] [2022-06-16 20:39:34,274] Add_New_Emp Step 05: Get employee ID
+[INFO ] [2022-06-16 20:39:34,274] Add_New_Emp Step 06: Click into 'Create Login Details'
+[INFO ] [2022-06-16 20:39:34,563] Add_New_Emp Step 07: Input data into Username
+[INFO ] [2022-06-16 20:39:34,693] Add_New_Emp Step 08: Input data into Password
+[INFO ] [2022-06-16 20:39:34,828] Add_New_Emp Step 09: Input data into Confirm Password
+[INFO ] [2022-06-16 20:39:34,939] Add_New_Emp Step 10: Select Disabe at Status
+[INFO ] [2022-06-16 20:39:35,156] Add_New_Emp Step 11: Click into save button and Come to persional Detail Page
+[INFO ] [2022-06-16 20:39:35,259] Add_New_Emp Step 12: Navigate to persional Detail Page
+[INFO ] [2022-06-16 20:39:38,520]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-06-16 20:39:38,522] Add_New_Emp Step 13: Come to employee list page
+[INFO ] [2022-06-16 20:39:39,692] Add_New_Emp Step 14: Input data into Employee name
+[INFO ] [2022-06-16 20:44:31,656] ---------- START delete file in folder ----------
+[INFO ] [2022-06-16 20:44:31,658] ---------- END delete file in folder ----------
+[INFO ] [2022-06-16 20:44:31,663] Pre-condition-Step 01: Open browser chromewith urlhttps://opensource-demo.orangehrmlive.com/
+[INFO ] [2022-06-16 20:44:41,711] Pre-condition-Step 02: Login page with admin role
+[INFO ] [2022-06-16 20:44:46,042] Add_New_Emp Step 01: Open employee list
+[INFO ] [2022-06-16 20:44:51,621] Add_New_Emp Step 02: Click to add button
+[INFO ] [2022-06-16 20:44:52,604] Add_New_Emp Step 03: Input fullname
+[INFO ] [2022-06-16 20:44:52,778] Add_New_Emp Step 04: Input lastname
+[INFO ] [2022-06-16 20:44:52,903] Add_New_Emp Step 05: Get employee ID
+[INFO ] [2022-06-16 20:44:52,904] Add_New_Emp Step 06: Click into 'Create Login Details'
+[INFO ] [2022-06-16 20:44:53,146] Add_New_Emp Step 07: Input data into Username
+[INFO ] [2022-06-16 20:44:53,271] Add_New_Emp Step 08: Input data into Password
+[INFO ] [2022-06-16 20:44:53,442] Add_New_Emp Step 09: Input data into Confirm Password
+[INFO ] [2022-06-16 20:44:53,547] Add_New_Emp Step 10: Select Disabe at Status
+[INFO ] [2022-06-16 20:44:53,708] Add_New_Emp Step 11: Click into save button and Come to persional Detail Page
+[INFO ] [2022-06-16 20:44:53,859] Add_New_Emp Step 12: Navigate to persional Detail Page
+[INFO ] [2022-06-16 20:44:57,354]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-06-16 20:44:57,356] Add_New_Emp Step 13: Come to employee list page
+[INFO ] [2022-06-16 20:44:58,346] Add_New_Emp Step 14: Input data into Employee name
+[INFO ] [2022-06-16 20:45:28,762] ------------Close browser and driver-----------
+[INFO ] [2022-06-16 20:45:28,763] OS name = mac os x
+[INFO ] [2022-06-16 20:45:28,763] Driver instance name = chromedriver: chrome on mac (9649336d53a051478171860e2d83e035)
+[INFO ] [2022-06-16 20:51:09,847] ---------- START delete file in folder ----------
+[INFO ] [2022-06-16 20:51:09,848] ---------- END delete file in folder ----------
+[INFO ] [2022-06-16 20:51:09,855] Pre-condition-Step 01: Open browser chromewith urlhttps://opensource-demo.orangehrmlive.com/
+[INFO ] [2022-06-16 20:51:20,745] Pre-condition-Step 02: Login page with admin role
+[INFO ] [2022-06-16 20:51:25,085] Add_New_Emp Step 01: Open employee list
+[INFO ] [2022-06-16 20:51:30,591] Add_New_Emp Step 02: Click to add button
+[INFO ] [2022-06-16 20:51:31,498] Add_New_Emp Step 03: Input fullname
+[INFO ] [2022-06-16 20:51:31,702] Add_New_Emp Step 04: Input lastname
+[INFO ] [2022-06-16 20:51:31,819] Add_New_Emp Step 05: Get employee ID
+[INFO ] [2022-06-16 20:51:31,820] Add_New_Emp Step 06: Click into 'Create Login Details'
+[INFO ] [2022-06-16 20:51:32,067] Add_New_Emp Step 07: Input data into Username
+[INFO ] [2022-06-16 20:51:32,171] Add_New_Emp Step 08: Input data into Password
+[INFO ] [2022-06-16 20:51:32,304] Add_New_Emp Step 09: Input data into Confirm Password
+[INFO ] [2022-06-16 20:51:32,417] Add_New_Emp Step 10: Select Disabe at Status
+[INFO ] [2022-06-16 20:51:32,556] Add_New_Emp Step 11: Click into save button and Come to persional Detail Page
+[INFO ] [2022-06-16 20:51:32,633] Add_New_Emp Step 12: Navigate to persional Detail Page
+[INFO ] [2022-06-16 20:51:36,717]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-06-16 20:51:36,719] Add_New_Emp Step 13: Come to employee list page
+[INFO ] [2022-06-16 20:51:37,791] Add_New_Emp Step 14: Input data into Employee name
+[INFO ] [2022-06-16 20:51:58,067] ------------Close browser and driver-----------
+[INFO ] [2022-06-16 20:51:58,068] OS name = mac os x
+[INFO ] [2022-06-16 20:51:58,068] Driver instance name = chromedriver: chrome on mac (8f50f0462ecb8f1e5ce1789915b37932)
+[INFO ] [2022-06-16 20:53:50,578] ---------- START delete file in folder ----------
+[INFO ] [2022-06-16 20:53:50,579] ---------- END delete file in folder ----------
+[INFO ] [2022-06-16 20:53:50,587] Pre-condition-Step 01: Open browser chromewith urlhttps://opensource-demo.orangehrmlive.com/
+[INFO ] [2022-06-16 20:54:00,352] Pre-condition-Step 02: Login page with admin role
+[INFO ] [2022-06-16 20:54:04,606] Add_New_Emp Step 01: Open employee list
+[INFO ] [2022-06-16 20:54:09,725] Add_New_Emp Step 02: Click to add button
+[INFO ] [2022-06-16 20:54:10,688] Add_New_Emp Step 03: Input fullname
+[INFO ] [2022-06-16 20:54:10,852] Add_New_Emp Step 04: Input lastname
+[INFO ] [2022-06-16 20:54:10,971] Add_New_Emp Step 05: Get employee ID
+[INFO ] [2022-06-16 20:54:10,971] Add_New_Emp Step 06: Click into 'Create Login Details'
+[INFO ] [2022-06-16 20:54:11,258] Add_New_Emp Step 07: Input data into Username
+[INFO ] [2022-06-16 20:54:11,366] Add_New_Emp Step 08: Input data into Password
+[INFO ] [2022-06-16 20:54:11,498] Add_New_Emp Step 09: Input data into Confirm Password
+[INFO ] [2022-06-16 20:54:11,648] Add_New_Emp Step 10: Select Disabe at Status
+[INFO ] [2022-06-16 20:54:11,844] Add_New_Emp Step 11: Click into save button and Come to persional Detail Page
+[INFO ] [2022-06-16 20:54:11,914] Add_New_Emp Step 12: Navigate to persional Detail Page
+[INFO ] [2022-06-16 20:54:15,992]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-06-16 20:54:15,996] Add_New_Emp Step 13: Come to employee list page
+[INFO ] [2022-06-16 20:54:17,218] Add_New_Emp Step 14: Input data into Employee name
+[INFO ] [2022-06-16 20:54:37,391] Add_New_Emp Step 15: Click into Search button
+[INFO ] [2022-06-16 21:12:10,991] ---------- START delete file in folder ----------
+[INFO ] [2022-06-16 21:12:10,993] ---------- END delete file in folder ----------
+[INFO ] [2022-06-16 21:12:11,001] Pre-condition-Step 01: Open browser chromewith urlhttps://opensource-demo.orangehrmlive.com/
+[INFO ] [2022-06-16 21:12:21,893] Pre-condition-Step 02: Login page with admin role
+[INFO ] [2022-06-16 21:12:26,272] Add_New_Emp Step 01: Open employee list
+[INFO ] [2022-06-16 21:12:31,859] Add_New_Emp Step 02: Click to add button
+[INFO ] [2022-06-16 21:12:32,932] Add_New_Emp Step 03: Input fullname
+[INFO ] [2022-06-16 21:12:33,136] Add_New_Emp Step 04: Input lastname
+[INFO ] [2022-06-16 21:12:33,268] Add_New_Emp Step 05: Get employee ID
+[INFO ] [2022-06-16 21:12:33,268] Add_New_Emp Step 06: Click into 'Create Login Details'
+[INFO ] [2022-06-16 21:12:33,542] Add_New_Emp Step 07: Input data into Username
+[INFO ] [2022-06-16 21:12:33,692] Add_New_Emp Step 08: Input data into Password
+[INFO ] [2022-06-16 21:12:33,842] Add_New_Emp Step 09: Input data into Confirm Password
+[INFO ] [2022-06-16 21:12:33,953] Add_New_Emp Step 10: Select Disabe at Status
+[INFO ] [2022-06-16 21:12:34,168] Add_New_Emp Step 11: Click into save button and Come to persional Detail Page
+[INFO ] [2022-06-16 21:12:34,268] Add_New_Emp Step 12: Navigate to persional Detail Page
+[INFO ] [2022-06-16 21:12:37,844]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-06-16 21:12:37,846] Add_New_Emp Step 13: Come to employee list page
+[INFO ] [2022-06-16 21:12:39,040] Add_New_Emp Step 14: Input data into Employee name
+[INFO ] [2022-06-16 21:12:59,305] Add_New_Emp Step 15: Click into Search button
+[INFO ] [2022-06-17 17:42:03,220] ---------- START delete file in folder ----------
+[INFO ] [2022-06-17 17:42:03,221] ---------- END delete file in folder ----------
+[INFO ] [2022-06-17 17:42:03,231] Pre-condition-Step 01: Open browser chromewith urlhttps://opensource-demo.orangehrmlive.com/
+[INFO ] [2022-06-17 17:42:14,886] Pre-condition-Step 02: Login page with admin role
+[INFO ] [2022-06-17 17:42:19,119] Add_New_Emp Step 01: Open employee list
+[INFO ] [2022-06-17 17:42:24,287] Add_New_Emp Step 02: Click to add button
+[INFO ] [2022-06-17 17:42:25,227] Add_New_Emp Step 03: Input fullname
+[INFO ] [2022-06-17 17:42:25,388] Add_New_Emp Step 04: Input lastname
+[INFO ] [2022-06-17 17:42:25,519] Add_New_Emp Step 05: Get employee ID
+[INFO ] [2022-06-17 17:42:25,519] Add_New_Emp Step 06: Click into 'Create Login Details'
+[INFO ] [2022-06-17 17:42:25,782] Add_New_Emp Step 07: Input data into Username
+[INFO ] [2022-06-17 17:42:25,906] Add_New_Emp Step 08: Input data into Password
+[INFO ] [2022-06-17 17:42:26,048] Add_New_Emp Step 09: Input data into Confirm Password
+[INFO ] [2022-06-17 17:42:26,240] Add_New_Emp Step 10: Select Disabe at Status
+[INFO ] [2022-06-17 17:42:26,380] Add_New_Emp Step 11: Click into save button and Come to persional Detail Page
+[INFO ] [2022-06-17 17:42:26,452] Add_New_Emp Step 12: Navigate to persional Detail Page
+[INFO ] [2022-06-17 17:42:30,004]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-06-17 17:42:30,005] Add_New_Emp Step 13: Come to employee list page
+[INFO ] [2022-06-17 17:42:31,048] Add_New_Emp Step 14: Input data into Employee name
+[INFO ] [2022-06-17 17:42:51,224] Add_New_Emp Step 15: Click into Search button
+[INFO ] [2022-06-17 17:45:28,925] ---------- START delete file in folder ----------
+[INFO ] [2022-06-17 17:45:28,926] ---------- END delete file in folder ----------
+[INFO ] [2022-06-17 17:45:28,934] Pre-condition-Step 01: Open browser chromewith urlhttps://opensource-demo.orangehrmlive.com/
+[INFO ] [2022-06-17 17:45:39,101] Pre-condition-Step 02: Login page with admin role
+[INFO ] [2022-06-17 17:45:43,406] Add_New_Emp Step 01: Open employee list
+[INFO ] [2022-06-17 17:45:48,835] Add_New_Emp Step 02: Click to add button
+[INFO ] [2022-06-17 17:45:49,755] Add_New_Emp Step 03: Input fullname
+[INFO ] [2022-06-17 17:45:49,937] Add_New_Emp Step 04: Input lastname
+[INFO ] [2022-06-17 17:45:50,067] Add_New_Emp Step 05: Get employee ID
+[INFO ] [2022-06-17 17:45:50,067] Add_New_Emp Step 06: Click into 'Create Login Details'
+[INFO ] [2022-06-17 17:45:50,357] Add_New_Emp Step 07: Input data into Username
+[INFO ] [2022-06-17 17:45:50,473] Add_New_Emp Step 08: Input data into Password
+[INFO ] [2022-06-17 17:45:50,609] Add_New_Emp Step 09: Input data into Confirm Password
+[INFO ] [2022-06-17 17:45:50,819] Add_New_Emp Step 10: Select Disabe at Status
+[INFO ] [2022-06-17 17:45:50,938] Add_New_Emp Step 11: Click into save button and Come to persional Detail Page
+[INFO ] [2022-06-17 17:45:51,017] Add_New_Emp Step 12: Navigate to persional Detail Page
+[INFO ] [2022-06-17 17:45:54,811]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-06-17 17:45:54,813] Add_New_Emp Step 13: Come to employee list page
+[INFO ] [2022-06-17 17:45:55,807] Add_New_Emp Step 14: Input data into Employee name
+[INFO ] [2022-06-17 17:46:16,022] Add_New_Emp Step 15: Click into Search button
+[INFO ] [2022-06-17 18:11:52,389] ---------- START delete file in folder ----------
+[INFO ] [2022-06-17 18:11:52,391] ---------- END delete file in folder ----------
+[INFO ] [2022-06-17 18:11:52,399] Pre-condition-Step 01: Open browser chromewith urlhttps://opensource-demo.orangehrmlive.com/
+[INFO ] [2022-06-17 18:12:03,530] Pre-condition-Step 02: Login page with admin role
+[INFO ] [2022-06-17 18:12:07,938] Add_New_Emp Step 01: Open employee list
+[INFO ] [2022-06-17 18:12:12,805] Add_New_Emp Step 02: Click to add button
+[INFO ] [2022-06-17 18:12:13,692] Add_New_Emp Step 03: Input fullname
+[INFO ] [2022-06-17 18:12:13,947] Add_New_Emp Step 04: Input lastname
+[INFO ] [2022-06-17 18:12:14,078] Add_New_Emp Step 05: Get employee ID
+[INFO ] [2022-06-17 18:12:14,078] Add_New_Emp Step 06: Click into 'Create Login Details'
+[INFO ] [2022-06-17 18:12:14,337] Add_New_Emp Step 07: Input data into Username
+[INFO ] [2022-06-17 18:12:14,459] Add_New_Emp Step 08: Input data into Password
+[INFO ] [2022-06-17 18:12:14,585] Add_New_Emp Step 09: Input data into Confirm Password
+[INFO ] [2022-06-17 18:12:14,696] Add_New_Emp Step 10: Select Disabe at Status
+[INFO ] [2022-06-17 18:12:14,818] Add_New_Emp Step 11: Click into save button and Come to persional Detail Page
+[INFO ] [2022-06-17 18:12:14,893] Add_New_Emp Step 12: Navigate to persional Detail Page
+[INFO ] [2022-06-17 18:12:18,416]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-06-17 18:12:18,418] Add_New_Emp Step 13: Come to employee list page
+[INFO ] [2022-06-17 18:12:19,472] Add_New_Emp Step 14: Input data into Employee name
+[INFO ] [2022-06-17 18:12:59,657] Add_New_Emp Step 15: Click into Search button
+[INFO ] [2022-06-22 16:10:33,477] ---------- START delete file in folder ----------
+[INFO ] [2022-06-22 16:10:33,479] ---------- END delete file in folder ----------
+[INFO ] [2022-06-22 16:10:33,487] Pre-condition-Step 01: Open browser chromewith urlhttps://opensource-demo.orangehrmlive.com/
+[INFO ] [2022-06-22 16:10:45,241] Pre-condition-Step 02: Login page with admin role
+[INFO ] [2022-06-22 16:10:49,054] Add_New_Emp Step 01: Open employee list
+[INFO ] [2022-06-22 16:10:54,056] Add_New_Emp Step 02: Click to add button
+[INFO ] [2022-06-22 16:10:54,811] Add_New_Emp Step 03: Input fullname
+[INFO ] [2022-06-22 16:10:55,029] Add_New_Emp Step 04: Input lastname
+[INFO ] [2022-06-22 16:10:55,146] Add_New_Emp Step 05: Get employee ID
+[INFO ] [2022-06-22 16:10:55,147] Add_New_Emp Step 06: Click into 'Create Login Details'
+[INFO ] [2022-06-22 16:10:55,392] Add_New_Emp Step 07: Input data into Username
+[INFO ] [2022-06-22 16:10:55,505] Add_New_Emp Step 08: Input data into Password
+[INFO ] [2022-06-22 16:10:55,642] Add_New_Emp Step 09: Input data into Confirm Password
+[INFO ] [2022-06-22 16:10:55,749] Add_New_Emp Step 10: Select Disabe at Status
+[INFO ] [2022-06-22 16:10:55,871] Add_New_Emp Step 11: Click into save button and Come to persional Detail Page
+[INFO ] [2022-06-22 16:10:55,944] Add_New_Emp Step 12: Navigate to persional Detail Page
+[INFO ] [2022-06-22 16:10:58,636]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-06-22 16:10:58,638] Add_New_Emp Step 13: Come to employee list page
+[INFO ] [2022-06-22 16:10:59,491] Add_New_Emp Step 14: Input data into Employee name
+[INFO ] [2022-06-22 16:11:20,156] Add_New_Emp Step 15: Click into Search button
+[INFO ] [2022-06-22 16:12:50,369] ---------- START delete file in folder ----------
+[INFO ] [2022-06-22 16:12:50,370] ---------- END delete file in folder ----------
+[INFO ] [2022-06-22 16:12:50,378] Pre-condition-Step 01: Open browser chromewith urlhttps://opensource-demo.orangehrmlive.com/
+[INFO ] [2022-06-22 16:12:59,074] Pre-condition-Step 02: Login page with admin role
+[INFO ] [2022-06-22 16:13:01,677] Add_New_Emp Step 01: Open employee list
+[INFO ] [2022-06-22 16:14:12,831] ---------- START delete file in folder ----------
+[INFO ] [2022-06-22 16:14:12,832] ---------- END delete file in folder ----------
+[INFO ] [2022-06-22 16:14:12,838] Pre-condition-Step 01: Open browser chromewith urlhttps://opensource-demo.orangehrmlive.com/
+[INFO ] [2022-06-22 16:14:22,462] Pre-condition-Step 02: Login page with admin role
+[INFO ] [2022-06-22 16:14:25,073] Add_New_Emp Step 01: Open employee list
+[INFO ] [2022-06-23 10:17:22,602] ---------- START delete file in folder ----------
+[INFO ] [2022-06-23 10:17:22,604] ---------- END delete file in folder ----------
+[INFO ] [2022-06-23 10:17:22,610] Pre-condition-Step 01: Open browser chromewith urlhttps://opensource-demo.orangehrmlive.com/
+[INFO ] [2022-06-23 10:17:32,444] Pre-condition-Step 02: Login page with admin role
+[INFO ] [2022-06-23 10:17:36,394] Add_New_Emp Step 01: Open employee list
+[INFO ] [2022-06-23 10:17:41,610] Add_New_Emp Step 02: Click to add button
+[INFO ] [2022-06-23 10:17:42,459] Add_New_Emp Step 03: Input fullname
+[INFO ] [2022-06-23 10:17:42,641] Add_New_Emp Step 04: Input lastname
+[INFO ] [2022-06-23 10:17:42,766] Add_New_Emp Step 05: Get employee ID
+[INFO ] [2022-06-23 10:17:42,767] Add_New_Emp Step 06: Click into 'Create Login Details'
+[INFO ] [2022-06-23 10:17:43,025] Add_New_Emp Step 07: Input data into Username
+[INFO ] [2022-06-23 10:17:43,147] Add_New_Emp Step 08: Input data into Password
+[INFO ] [2022-06-23 10:17:43,275] Add_New_Emp Step 09: Input data into Confirm Password
+[INFO ] [2022-06-23 10:17:43,382] Add_New_Emp Step 10: Select Disabe at Status
+[INFO ] [2022-06-23 10:17:43,572] Add_New_Emp Step 11: Click into save button and Come to persional Detail Page
+[INFO ] [2022-06-23 10:20:38,579] ---------- START delete file in folder ----------
+[INFO ] [2022-06-23 10:20:38,580] ---------- END delete file in folder ----------
+[INFO ] [2022-06-23 10:20:38,588] Pre-condition-Step 01: Open browser chromewith urlhttps://opensource-demo.orangehrmlive.com/
+[INFO ] [2022-06-23 10:20:48,364] Pre-condition-Step 02: Login page with admin role
+[INFO ] [2022-06-23 10:20:52,169] Add_New_Emp Step 01: Open employee list
+[INFO ] [2022-06-23 10:20:57,301] Add_New_Emp Step 02: Click to add button
+[INFO ] [2022-06-23 10:20:58,261] Add_New_Emp Step 03: Input fullname
+[INFO ] [2022-06-23 10:20:58,427] Add_New_Emp Step 04: Input lastname
+[INFO ] [2022-06-23 10:20:58,545] Add_New_Emp Step 05: Get employee ID
+[INFO ] [2022-06-23 10:20:58,545] Add_New_Emp Step 06: Click into 'Create Login Details'
+[INFO ] [2022-06-23 10:20:58,797] Add_New_Emp Step 07: Input data into Username
+[INFO ] [2022-06-23 10:20:58,925] Add_New_Emp Step 08: Input data into Password
+[INFO ] [2022-06-23 10:20:59,063] Add_New_Emp Step 09: Input data into Confirm Password
+[INFO ] [2022-06-23 10:20:59,166] Add_New_Emp Step 10: Select Disabe at Status
+[INFO ] [2022-06-23 10:20:59,381] Add_New_Emp Step 11: Click into save button and Come to persional Detail Page
+[INFO ] [2022-06-23 10:20:59,466] Add_New_Emp Step 12: Navigate to persional Detail Page
+[INFO ] [2022-06-23 10:21:01,927]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-06-23 10:21:01,930] Add_New_Emp Step 13: Come to employee list page
+[INFO ] [2022-06-23 10:21:03,051] Add_New_Emp Step 14: Input data into Employee name
+[INFO ] [2022-06-23 10:21:03,761] Add_New_Emp Step 15: Click into Search button
+[INFO ] [2022-06-23 10:21:04,439] Add_New_Emp Step 16: Verify Employee infor display correctly at result table
+[INFO ] [2022-06-23 10:21:04,495]  -------------------------- FAILED -------------------------- 
+[INFO ] [2022-06-23 10:22:04,287] ---------- START delete file in folder ----------
+[INFO ] [2022-06-23 10:22:04,288] ---------- END delete file in folder ----------
+[INFO ] [2022-06-23 10:22:04,301] Pre-condition-Step 01: Open browser chromewith urlhttps://opensource-demo.orangehrmlive.com/
+[INFO ] [2022-06-23 10:22:13,263] Pre-condition-Step 02: Login page with admin role
+[INFO ] [2022-06-23 10:22:17,072] Add_New_Emp Step 01: Open employee list
+[INFO ] [2022-06-23 10:22:22,346] Add_New_Emp Step 02: Click to add button
+[INFO ] [2022-06-23 10:22:23,109] Add_New_Emp Step 03: Input fullname
+[INFO ] [2022-06-23 10:22:23,333] Add_New_Emp Step 04: Input lastname
+[INFO ] [2022-06-23 10:22:23,469] Add_New_Emp Step 05: Get employee ID
+[INFO ] [2022-06-23 10:22:23,469] Add_New_Emp Step 06: Click into 'Create Login Details'
+[INFO ] [2022-06-23 10:22:23,717] Add_New_Emp Step 07: Input data into Username
+[INFO ] [2022-06-23 10:22:23,834] Add_New_Emp Step 08: Input data into Password
+[INFO ] [2022-06-23 10:22:23,967] Add_New_Emp Step 09: Input data into Confirm Password
+[INFO ] [2022-06-23 10:22:24,074] Add_New_Emp Step 10: Select Disabe at Status
+[INFO ] [2022-06-23 10:22:24,194] Add_New_Emp Step 11: Click into save button and Come to persional Detail Page
+[INFO ] [2022-06-23 10:22:24,263] Add_New_Emp Step 12: Navigate to persional Detail Page
+[INFO ] [2022-06-23 10:22:54,838] ------------Close browser and driver-----------
+[INFO ] [2022-06-23 10:22:54,839] OS name = mac os x
+[INFO ] [2022-06-23 10:22:54,840] Driver instance name = chromedriver: chrome on mac (ee5fe783c63ba632ff0b27f3190a8a93)
+[INFO ] [2022-06-23 10:23:17,043] ---------- START delete file in folder ----------
+[INFO ] [2022-06-23 10:23:17,044] ---------- END delete file in folder ----------
+[INFO ] [2022-06-23 10:23:17,051] Pre-condition-Step 01: Open browser chromewith urlhttps://opensource-demo.orangehrmlive.com/
+[INFO ] [2022-06-23 10:23:26,339] Pre-condition-Step 02: Login page with admin role
+[INFO ] [2022-06-23 10:23:30,211] Add_New_Emp Step 01: Open employee list
+[INFO ] [2022-06-23 10:23:34,536] Add_New_Emp Step 02: Click to add button
+[INFO ] [2022-06-23 10:23:36,169] Add_New_Emp Step 03: Input fullname
+[INFO ] [2022-06-23 10:23:36,331] Add_New_Emp Step 04: Input lastname
+[INFO ] [2022-06-23 10:23:36,456] Add_New_Emp Step 05: Get employee ID
+[INFO ] [2022-06-23 10:23:36,469] Add_New_Emp Step 06: Click into 'Create Login Details'
+[INFO ] [2022-06-23 10:23:36,725] Add_New_Emp Step 07: Input data into Username
+[INFO ] [2022-06-23 10:23:36,837] Add_New_Emp Step 08: Input data into Password
+[INFO ] [2022-06-23 10:23:36,967] Add_New_Emp Step 09: Input data into Confirm Password
+[INFO ] [2022-06-23 10:23:37,179] Add_New_Emp Step 10: Select Disabe at Status
+[INFO ] [2022-06-23 10:23:37,300] Add_New_Emp Step 11: Click into save button and Come to persional Detail Page
+[INFO ] [2022-06-23 10:23:37,372] Add_New_Emp Step 12: Navigate to persional Detail Page
+[INFO ] [2022-06-23 10:23:39,925]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-06-23 10:23:39,928] Add_New_Emp Step 13: Come to employee list page
+[INFO ] [2022-06-23 10:23:40,908] Add_New_Emp Step 14: Input data into Employee name
+[INFO ] [2022-06-23 10:23:41,558] Add_New_Emp Step 15: Click into Search button
+[INFO ] [2022-06-23 10:23:42,253] Add_New_Emp Step 16: Verify Employee infor display correctly at result table
+[INFO ] [2022-06-23 10:23:42,304]  -------------------------- FAILED -------------------------- 
+[INFO ] [2022-06-23 10:23:42,358] ------------Close browser and driver-----------
+[INFO ] [2022-06-23 10:23:42,359] OS name = mac os x
+[INFO ] [2022-06-23 10:23:42,360] Driver instance name = chromedriver: chrome on mac (cb3a668dc3e6721479967be4955c6b16)
+[INFO ] [2022-06-24 16:51:57,254] ---------- START delete file in folder ----------
+[INFO ] [2022-06-24 16:51:57,255] ---------- END delete file in folder ----------
+[INFO ] [2022-06-24 16:51:57,268] Pre-condition-Step 01: Open browser chromewith urlhttps://opensource-demo.orangehrmlive.com/
+[INFO ] [2022-06-24 16:52:09,632] Pre-condition-Step 02: Login page with admin role
+[INFO ] [2022-06-24 16:52:13,460] Add_New_Emp Step 01: Open employee list
+[INFO ] [2022-06-24 16:52:47,774] ------------Close browser and driver-----------
+[INFO ] [2022-06-24 16:52:47,775] OS name = mac os x
+[INFO ] [2022-06-24 16:52:47,776] Driver instance name = chromedriver: chrome on mac (b809a0fbd0f3b4690a0006eb4e3f3908)
+[INFO ] [2022-06-24 16:54:06,974] ---------- START delete file in folder ----------
+[INFO ] [2022-06-24 16:54:06,975] ---------- END delete file in folder ----------
+[INFO ] [2022-06-24 16:54:06,983] Pre-condition-Step 01: Open browser chromewith urlhttps://opensource-demo.orangehrmlive.com/
+[INFO ] [2022-06-24 16:54:16,474] Pre-condition-Step 02: Login page with admin role
+[INFO ] [2022-06-24 16:54:20,233] Add_New_Emp Step 01: Open employee list
+[INFO ] [2022-06-24 16:54:25,216] Add_New_Emp Step 02: Click to add button
+[INFO ] [2022-06-24 16:54:26,038] Add_New_Emp Step 03: Input fullname
+[INFO ] [2022-06-24 16:54:26,214] Add_New_Emp Step 04: Input lastname
+[INFO ] [2022-06-24 16:54:26,334] Add_New_Emp Step 05: Get employee ID
+[INFO ] [2022-06-24 16:54:26,335] Add_New_Emp Step 06: Click into 'Create Login Details'
+[INFO ] [2022-06-24 16:54:26,594] Add_New_Emp Step 07: Input data into Username
+[INFO ] [2022-06-24 16:54:26,699] Add_New_Emp Step 08: Input data into Password
+[INFO ] [2022-06-24 16:54:26,835] Add_New_Emp Step 09: Input data into Confirm Password
+[INFO ] [2022-06-24 16:54:27,070] Add_New_Emp Step 10: Select Disabe at Status
+[INFO ] [2022-06-24 16:54:27,199] Add_New_Emp Step 11: Click into save button and Come to persional Detail Page
+[INFO ] [2022-06-24 16:54:27,285] Add_New_Emp Step 12: Navigate to persional Detail Page
+[INFO ] [2022-06-24 16:54:29,665]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-06-24 16:54:29,667] Add_New_Emp Step 13: Come to employee list page
+[INFO ] [2022-06-24 16:54:31,759] Add_New_Emp Step 14: Input data into Employee name
+[INFO ] [2022-06-24 16:54:32,408] Add_New_Emp Step 15: Click into Search button
+[INFO ] [2022-06-24 16:54:33,042] Add_New_Emp Step 16: Verify Employee infor display correctly at result table
+[INFO ] [2022-06-24 16:54:33,096]  -------------------------- FAILED -------------------------- 
+[INFO ] [2022-06-24 16:54:33,148] ------------Close browser and driver-----------
+[INFO ] [2022-06-24 16:54:33,161] OS name = mac os x
+[INFO ] [2022-06-24 16:54:33,161] Driver instance name = chromedriver: chrome on mac (5974733fc64763f2daac93532a2ea819)

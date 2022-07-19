@@ -1,0 +1,25 @@
+[INFO ] [2022-06-24 16:54:06,974] ---------- START delete file in folder ----------
+[INFO ] [2022-06-24 16:54:06,975] ---------- END delete file in folder ----------
+[INFO ] [2022-06-24 16:54:06,983] Pre-condition-Step 01: Open browser chromewith urlhttps://opensource-demo.orangehrmlive.com/
+[INFO ] [2022-06-24 16:54:16,474] Pre-condition-Step 02: Login page with admin role
+[INFO ] [2022-06-24 16:54:20,233] Add_New_Emp Step 01: Open employee list
+[INFO ] [2022-06-24 16:54:25,216] Add_New_Emp Step 02: Click to add button
+[INFO ] [2022-06-24 16:54:26,038] Add_New_Emp Step 03: Input fullname
+[INFO ] [2022-06-24 16:54:26,214] Add_New_Emp Step 04: Input lastname
+[INFO ] [2022-06-24 16:54:26,334] Add_New_Emp Step 05: Get employee ID
+[INFO ] [2022-06-24 16:54:26,335] Add_New_Emp Step 06: Click into 'Create Login Details'
+[INFO ] [2022-06-24 16:54:26,594] Add_New_Emp Step 07: Input data into Username
+[INFO ] [2022-06-24 16:54:26,699] Add_New_Emp Step 08: Input data into Password
+[INFO ] [2022-06-24 16:54:26,835] Add_New_Emp Step 09: Input data into Confirm Password
+[INFO ] [2022-06-24 16:54:27,070] Add_New_Emp Step 10: Select Disabe at Status
+[INFO ] [2022-06-24 16:54:27,199] Add_New_Emp Step 11: Click into save button and Come to persional Detail Page
+[INFO ] [2022-06-24 16:54:27,285] Add_New_Emp Step 12: Navigate to persional Detail Page
+[INFO ] [2022-06-24 16:54:29,665]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-06-24 16:54:29,667] Add_New_Emp Step 13: Come to employee list page
+[INFO ] [2022-06-24 16:54:31,759] Add_New_Emp Step 14: Input data into Employee name
+[INFO ] [2022-06-24 16:54:32,408] Add_New_Emp Step 15: Click into Search button
+[INFO ] [2022-06-24 16:54:33,042] Add_New_Emp Step 16: Verify Employee infor display correctly at result table
+[INFO ] [2022-06-24 16:54:33,096]  -------------------------- FAILED -------------------------- 
+[INFO ] [2022-06-24 16:54:33,148] ------------Close browser and driver-----------
+[INFO ] [2022-06-24 16:54:33,161] OS name = mac os x
+[INFO ] [2022-06-24 16:54:33,161] Driver instance name = chromedriver: chrome on mac (5974733fc64763f2daac93532a2ea819)

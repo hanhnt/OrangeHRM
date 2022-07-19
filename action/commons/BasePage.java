@@ -18,6 +18,11 @@ import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.Select;
 import org.openqa.selenium.support.ui.WebDriverWait;
 
+import pageObjects.AddEmployeePage;
+import pageObjects.PageGeneratorManager;
+import pageUIs.AddEmployeePageUI;
+import pageUIs.CommonUIs;
+
 public class BasePage {
 	public void openPageUlr(WebDriver driver, String pageUrl) {
 		driver.get(pageUrl);
@@ -172,11 +177,11 @@ public class BasePage {
 	}
 	
 	protected String getElementText(WebDriver driver, String locatorType, String...restParameters) {
-		return getWebElement(driver, getDynamicXpath(locatorType,restParameters)).getText();
+		return getWebElement(driver, getDynamicXpath(locatorType,restParameters)).getText().trim();
 	}
 	
 	protected String getElementText(WebDriver driver, String locatorType) {
-		return getWebElement(driver, locatorType).getText();
+		return getWebElement(driver, locatorType).getText().trim();
 	}
 	
 	protected void selectItemInDefaultDropdown(WebDriver driver, String locatorType, String textItem) {
@@ -190,8 +195,6 @@ public class BasePage {
 		//select.selectByValue(textItem);
 		select.selectByVisibleText(textItem);
 	}
-	
-	
 	
 	protected String getItemInDefaultDropdown(WebDriver driver, String locatorType, String textItem) {
 		Select select = new Select(getWebElement(driver, locatorType));
@@ -443,7 +446,27 @@ public class BasePage {
 		}
 	}
 	
+	public void openMainMenu(WebDriver driver, String mainMenu) {
+		waitForElementVisible(driver, CommonUIs.MAIN_MENU_BY_NAME, mainMenu);
+		clickToElement(driver, CommonUIs.MAIN_MENU_BY_NAME, mainMenu);
+	}
 	
+	public void openSubMenu(WebDriver driver, String mainMenu, String subMenu) {
+		waitForElementVisible(driver, CommonUIs.MAIN_MENU_BY_NAME, mainMenu);
+		clickToElement(driver, CommonUIs.MAIN_MENU_BY_NAME, mainMenu);
+		waitForElementVisible(driver, CommonUIs.SUB_MENU_BY_NAME, subMenu);
+		clickToElement(driver, CommonUIs.SUB_MENU_BY_NAME, subMenu);
+	}
+	
+	public void clickIntoButtonByID(WebDriver driver,String buttonName) {
+		waitForElementVisible(driver, CommonUIs.BUTTON_BY_ID, buttonName);
+		clickToElement(driver,CommonUIs.BUTTON_BY_ID, buttonName);
+	}
+	
+	public void inputTextboxtName(WebDriver driver, String valueInput, String txtName) {
+		waitForElementVisible(driver, AddEmployeePageUI.TEXTBOX_BY_NAME, txtName);
+		sendkeyToElement(driver, AddEmployeePageUI.TEXTBOX_BY_NAME, valueInput, txtName);		
+	}
 	
 	private long longTimeout=GloalConstants.LONG_TIME_OUT;
 	private long shorTimeout=GloalConstants.SHORT_TIME_OUT;
